@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Open Source and Web Technologies.
 - 💬 Ask me about  Html, Css, js
 - 📫 How to reach me: Sattyamsamania2810@gmail.com
-- ⚡ Fun fact:  **I play games.**
+
 
 ## 🚀 Languages and Tools:
 
