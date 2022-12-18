@@ -8,9 +8,8 @@
 
 - 🔭Currently a CSE UnderGrad. 
 - 🌱 I’m currently learning Web Development and Contributing to Open Source.
-- 👯 I’m looking to Connect with like Minded People
-- 🤔 I’m looking for help with Open Source and Web Technologies.
-- 💬 Ask me about  Html, Css, js
+- 🤔 I’m looking for Web Developement Opportunities
+- 💬 Ask me about  Html, Css, Tailwind Css and js
 - 📫 How to reach me: Sattyamsamania2810@gmail.com
 
 
