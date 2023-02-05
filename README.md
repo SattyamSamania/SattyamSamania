@@ -10,6 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/sattyam15" target="blank"><img src="https://img.shields.io/twitter/follow/sattyam15?logo=twitter&style=for-the-badge" alt="sattyam15" /></a> </p>
 
+<detatils>
+ <summary> More about me </summary>
+
 - 🌱 I’m currently learning **Frontend Development**
 
 - 👯 I’m looking to collaborate on **Open Source and Web Development**
@@ -32,8 +35,11 @@ https://sattyamsamania.hashnode.dev/our-journey-to-top-60-in-hacksquad-22
 https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 <!-- BLOG-POST-LIST:END -->
 <br>
+ </details>
 
-<h3 align="left">Connect with me:</h3>
+<details>
+ 
+ <summary> <h3 align="left">Connect with me:</h3> </summary>
 <p align="left">
 <a href="https://twitter.com/sattyam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattyam15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sattyam-samania-3691711b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sattyam-samania-3691711b9/" height="30" width="40" /></a>
@@ -55,7 +61,7 @@ https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sattyamsamania&" alt="sattyamsamania" /></p>
 
-
+</details>
 
 
 <p align="center">
