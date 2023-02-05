@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sattyam15" target="blank"><img src="https://img.shields.io/twitter/follow/sattyam15?logo=twitter&style=for-the-badge" alt="sattyam15" /></a> </p>
 
-<detatils>
+<details>
  <summary> More about me </summary>
 
 - 🌱 I’m currently learning **Frontend Development**
