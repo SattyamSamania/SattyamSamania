@@ -7,7 +7,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<details>
+
   More about me 
 
 - 🌱 I’m currently learning **Frontend Development**
@@ -32,9 +32,8 @@ https://sattyamsamania.hashnode.dev/our-journey-to-top-60-in-hacksquad-22
 https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 <!-- BLOG-POST-LIST:END -->
 <br>
- </details>
+ 
 
-<details>
  
   <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -58,7 +57,7 @@ https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sattyamsamania&" alt="sattyamsamania" /></p>
 
-</details>
+
 
 
 
