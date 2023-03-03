@@ -7,9 +7,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-
-<p align="left"> <a href="https://twitter.com/sattyam15" target="blank"><img src="https://img.shields.io/twitter/follow/sattyam15?logo=twitter&style=for-the-badge" alt="sattyam15" /></a> </p>
-
 <details>
  <summary> More about me </summary>
 
@@ -64,15 +61,7 @@ https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 </details>
 
 
-<p align="center">
-  I like spending my time interacting with community 💪, attending various events 🗓️ & contributing in any way possible.🌟
-</p>
-<br>
 
-
-![Community3](https://user-images.githubusercontent.com/67833888/212236076-0c819017-eaa6-4187-92bc-29146da9c9a0.png)
-
-<br>
 
 
 
