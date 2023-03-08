@@ -14,13 +14,10 @@
 
 - 👯 I’m looking to collaborate on **Open Source and Web Development**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Sattyam2810](https://hashnode.com/@Sattyam2810)
-
 - 💬 Ask me about **HTML, CSS, JS, Tailwind CSS**
 
 - 📫 How to reach me **Sattyamsamania2810@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1raeUhb8KDaGOUW6nFPGT6MRt-WtJFgvJ/view?usp=drivesdk](https://drive.google.com/file/d/1raeUhb8KDaGOUW6nFPGT6MRt-WtJFgvJ/view?usp=drivesdk)
  <br>
 
 ### My Latest Blog Posts
