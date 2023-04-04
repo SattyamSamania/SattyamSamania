@@ -52,7 +52,7 @@ https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sattyamsamania&show_icons=true&locale=en" alt="sattyamsamania" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sattyamsamania&" alt="sattyamsamania" /></p>
+
 
 
 
