@@ -26,7 +26,6 @@ https://sattyamsamania.hashnode.dev/kwoc-22-and-my-learnings
 
 https://sattyamsamania.hashnode.dev/our-journey-to-top-60-in-hacksquad-22
 
-https://sattyamsamania.hashnode.dev/my-hacktoberfest-journey
 <!-- BLOG-POST-LIST:END -->
 <br>
  
