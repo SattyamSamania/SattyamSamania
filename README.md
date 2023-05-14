@@ -10,11 +10,9 @@
 
   More about me 
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently a **Software Engineer**
 
 - 👯 I’m looking to collaborate on **Open Source and Web Development**
-
-- 💬 Ask me about **HTML, CSS, JS, Tailwind CSS**
 
 - 📫 How to reach me **Sattyamsamania2810@gmail.com**
 
