@@ -39,7 +39,7 @@ https://sattyamsamania.hashnode.dev/our-journey-to-top-60-in-hacksquad-22
 <a href="https://www.youtube.com/channel/UCST-KrayNO3VjRFH1dbMxTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sattyam samania" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sattyamsamania2810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sattyamsamania2810" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sattyamsamania2810/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sattyamsamania2810/practice" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/taa3lbyehkuzmfxx.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/taa3lbyehkuzmfxx.xml" height="30" width="40" /></a>
+
 </p>
 <br>
 
