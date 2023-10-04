@@ -20,6 +20,8 @@
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+https://sattyamsamania.hashnode.dev/building-connections-exploring-the-power-and-potential-of-tech-communities
+
 https://sattyamsamania.hashnode.dev/kwoc-22-and-my-learnings
 
 https://sattyamsamania.hashnode.dev/our-journey-to-top-60-in-hacksquad-22
