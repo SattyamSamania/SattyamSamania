@@ -1,39 +1,29 @@
-<p align="center">
-  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-</p>
+<h1 align="center">Hi 👋, I'm Sattyam Samania</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-<h1 align="center">Hi there! 👋 I'm Sattyam Samania</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sattyamsamania&label=Profile%20views&color=0e75b6&style=flat" alt="sattyamsamania" /> </p>
 
-<h3 align="left">Experience 🚀</h3>
+- 🔭 I’m currently working on **MERN Stack**
 
-- **Software Engineer** at [Your Company/Organization](#) (Year - Present)
-- **Frontend Developer Intern** at [Another Company](#) (Year - Year)
+- 👨‍💻 All of my projects are available at [https://vercel.com/templates/next.js/nextjs-portfolio](https://vercel.com/templates/next.js/nextjs-portfolio)
 
-<h3 align="left">Contributions 🌟</h3>
+- 📝 I regularly write articles on [https://hashnode.com/@Sattyam2810](https://hashnode.com/@Sattyam2810)
 
-- **Contributor** at [Open Source Project](#)
-- **Web Development** - [Your Personal Project](#)
+- 📫 How to reach me **Sattyamsamania2810@gmail.com**
 
-<h3 align="left">More about me 🌱</h3>
+- 📄 Know about my experiences [https://drive.google.com/file/d/11fAeE0fvtlhlSdsQhp8m2wELAyBntFT-/view?usp=drivesdk](https://drive.google.com/file/d/11fAeE0fvtlhlSdsQhp8m2wELAyBntFT-/view?usp=drivesdk)
 
-- 👯 I’m looking to collaborate on **Open Source and Web Development**
-- 📫 How to reach me: **Sattyamsamania2810@gmail.com**
-
-<br>
-
-<h3 align="left">Connect with me 🌐</h3> 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sattyam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattyam15" height="30" width="40" /></a>
-  <!-- Add other social media links similarly -->
+<a href="https://twitter.com/sattyam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattyam15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sattyam-samania-3691711b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sattyam-samania-3691711b9" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://sattyamsamania.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://sattyamsamania.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sattyamsamania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sattyamsamania" height="30" width="40" /></a>
 </p>
-<br>
 
-<h3 align="left">Languages and Tools 🛠️</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <!-- Add other language and tool icons similarly -->
-</p>
-</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sattyamsamania&show_icons=true&locale=en" alt="sattyamsamania" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sattyamsamania&" alt="sattyamsamania" /></p>
