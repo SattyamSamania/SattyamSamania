@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sattyamsamania&label=Profile%20views&color=0e75b6&style=flat" alt="sattyamsamania" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working as **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/templates/next.js/nextjs-portfolio](https://vercel.com/templates/next.js/nextjs-portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://next-portfolio-sattyam-fygtvdhcp-sattyamsamania.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Sattyam2810](https://hashnode.com/@Sattyam2810)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@Sattyam2810)
 
 - 📫 How to reach me **Sattyamsamania2810@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11fAeE0fvtlhlSdsQhp8m2wELAyBntFT-/view?usp=drivesdk](https://drive.google.com/file/d/11fAeE0fvtlhlSdsQhp8m2wELAyBntFT-/view?usp=drivesdk)
+- 📄 Know about my experiences [Check my Resume](https://drive.google.com/file/d/1eAaGm5hePUVpcFMUvpI_rwju6d3HT2gi/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
