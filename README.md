@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sattyam Samania</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Builder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sattyamsamania&label=Profile%20views&color=0e75b6&style=flat" alt="sattyamsamania" /> </p>
 
-- 🔭 I’m currently working as **Full Stack Developer**
+- 🔭 I’m currently working on **AI/ML Engineering**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://next-portfolio-sattyam-fygtvdhcp-sattyamsamania.vercel.app/)
 
