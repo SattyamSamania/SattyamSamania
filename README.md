@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sattyamsamania&label=Profile%20views&color=0e75b6&style=flat" alt="sattyamsamania" /> </p>
 
-- 🔭 I’m currently working on **AI/ML Engineering**
+- 🔭 I’m currently building **AI tools and products**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://next-portfolio-sattyam-fygtvdhcp-sattyamsamania.vercel.app/)
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@Sattyam2810)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sattyamsamania2810)
 
 - 📫 How to reach me **Sattyamsamania2810@gmail.com**
 
-- 📄 Know about my experiences [Check my Resume](https://drive.google.com/file/d/1eAaGm5hePUVpcFMUvpI_rwju6d3HT2gi/view?usp=drivesdk)
+- 📄 Know about what I'm building [Check my X journey](https://x.com/Sattyam15)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
